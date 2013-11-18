@@ -1,0 +1,7 @@
+* 1.1.0
+
+  - allowing multiple groups
+
+* 1.0.0
+
+  - initial
